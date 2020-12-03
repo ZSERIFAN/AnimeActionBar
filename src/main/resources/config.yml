@@ -1,0 +1,6 @@
+# Config file for AnimeActionBar
+# Coded with love by thmihnea
+
+runnable-ticks: 1 # The actionbar would reset every x ticks. Prefferably set to 1.
+actionbar-direction: "&c❤ %amount%/%total%     &7%locationX% &f%direction% &7%locationZ%     &b✺ 20/20"
+actionbar-sprint: "&c❤ %amount%/%total%     %stamina%     &b✺ 20/20"
