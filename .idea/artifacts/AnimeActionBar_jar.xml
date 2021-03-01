@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="AnimeActionBar:jar">
-    <output-path>$USER_HOME$/Desktop/rohi server/factions/plugins</output-path>
-    <root id="archive" name="AnimeActionBar.jar">
-      <element id="module-output" name="AnimeActionBar" />
-    </root>
-  </artifact>
-</component>
